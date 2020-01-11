@@ -1,17 +1,17 @@
-# MySite
+### MySite
 
 This project intends to be an index page where i can access in one click any platform or saved website accross the internet, thus creating a personalized space for the user in the web.
 
-# MySite FrontYard
+### MySite FrontYard
 
 The frontYard of mySite is a customizable static webpage with component based functionalities
 
-# FUNCTIONALITIES
+### FUNCTIONALITIES
 - All-devices accesible customized index page
 - Components with widgets
 - FrontYard function of components
 
-# COMPONENTS
+### COMPONENTS
 - RR.SS Components ( For develop )
 - 1 link to bookmarks
 - websites based remembers with one link action
@@ -20,5 +20,5 @@ The frontYard of mySite is a customizable static webpage with component based fu
 - Documents Driven context
 
 
-# TODO
+### TODO
 - stablish the components abstractions
