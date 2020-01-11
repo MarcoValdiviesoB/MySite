@@ -22,3 +22,5 @@ The frontYard of mySite is a customizable static webpage with component based fu
 
 ### TODO
 - stablish the components abstractions
+
+![image]("Appereance V1.png")
