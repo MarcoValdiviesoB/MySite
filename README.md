@@ -6,12 +6,12 @@ This project intends to be an index page where i can access in one click any pla
 
 The frontYard of mySite is a customizable static webpage with component based functionalities
 
-### FUNCTIONALITIES
+### Functionalities
 - All-devices accesible customized index page
 - Components with widgets
 - FrontYard function of components
 
-### COMPONENTS
+### Components
 - RR.SS Components ( For develop )
 - 1 link to bookmarks
 - websites based remembers with one link action
